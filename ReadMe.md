@@ -29,6 +29,9 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshbansal6&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshbansal6&theme=radical)
 
+## 📈 Contribution Graph
+![Harsh Bansal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harshbansal6&theme=radical&hide_border=true&bg_color=0D1117&color=E4E4E4&line=F85D7F&point=F8D847)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=harshbansal6&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
